@@ -5,8 +5,8 @@ home.html - security page
 secret.html - the protected page
 
 node.js packages used
-npm init
+npm init,
 
-npm import express
-npm import nodemon
-npm import body-parser
+npm import express,
+npm import nodemon,
+npm import body-parser,
